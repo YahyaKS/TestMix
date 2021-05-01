@@ -1,0 +1,125 @@
+#container{
+    width: 100%;
+    height: 735px;
+    background-color: azure;
+    border-radius: 30px;
+    margin: auto;
+}
+#loop1{
+    width: 18%;
+    height: 710px;
+    background-color: azure;
+    float: left;
+    margin: 10px 10px 10px 30px;
+    border-radius: 10px;
+
+}
+#one{
+    margin: 20px 20px 20px 20px ;
+    width: 230px;
+    height: 325px;
+    border-radius:  0px 0px 30px 30px;
+    background-color: aquamarine;
+    
+}
+#two{
+    margin: 10px 20px 10px 20px;
+    width: 230px;
+    height: 325px;
+    border-radius: 30px 30px 0px 0px;
+    background-color: aquamarine;
+}
+#loop2{
+    width: 18%;
+    height: 710px;
+    background-color: azure;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+#three{
+    margin: 20px 20px 10px 20px ;
+    width: 230px;
+    height: 162.5px;
+    border-radius:  0px 0px 30px 30px;
+    background-color: aquamarine;
+}
+#four{
+    margin: 10px 20px 10px 20px;
+    width: 230px;
+    height: 325px;
+    border-radius: 30px;
+    background-color: aquamarine;
+}
+#five{
+    margin: 10px 20px 10px 20px;
+    width: 230px;
+    height: 162.5px;
+    border-radius: 30px 30px 0 0;
+    background-color: aquamarine;
+}
+#loop3{
+    width: 18%;
+    height: 710px;
+    background-color: azure;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+#six{
+    margin: 20px 20px 20px 20px;
+    width: 230px;
+    height: 325px;
+    border-radius: 0 0 30px 30px;
+    background-color: aquamarine;
+}
+#seven{
+    margin: 20px 20px 20px 20px;
+    width: 230px;
+    height: 325px;
+    border-radius: 30px 30px 0 0;
+    background-color: aquamarine;
+}
+#loop4{
+    width: 38%;
+    height: 710px;
+    background-color: azure;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    
+}
+#eight{
+    margin: 20px 5px 20px 20px;
+    width: 440px;
+    height: 325px;
+    border-radius: 30px;
+    background-color: aquamarine;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes eight {from {top: 0px;}  to {top: 200px;} }
+@keyframes eight {  from {top: 0px;}  to {top: 200px;} }
+
+#nine{
+    margin: 20px 5px 20px 20px;
+    width: 440px;
+    height: 325px;
+    border-radius: 30px;
+    background-color: aquamarine;
+}
+#ten{
+    margin: 20px 0px 0px 0px;
+    height: 670px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: aquamarine;
+    float: right;
+}
+
+#ten ul li {float: right;  background-color: rgb(144, 255, 149); width: 50px; height: 50px; border-radius: 30px 30px 30px 0;
+            border: 2px white solid; color: white; text-align: center; list-style: none; margin: 44px 12.5px 0 0 ;
+            text-decoration: none; text-align-last: auto; transition: none; } 
+
